@@ -1,0 +1,1662 @@
+{
+	"@Tool": "github.com/davyxu/tabtoy",
+	"@Version": "3.1.3",
+	"MyData": [
+		{
+			"exp": 2,
+			"extendType": 0,
+			"fishType": 0,
+			"maxScore": 0,
+			"name": "蜻蜓魚",
+			"score": 2
+		},
+		{
+			"exp": 3,
+			"extendType": 0,
+			"fishType": 1,
+			"maxScore": 0,
+			"name": "小醜魚",
+			"score": 3
+		},
+		{
+			"exp": 4,
+			"extendType": 0,
+			"fishType": 2,
+			"maxScore": 0,
+			"name": "小黃魚",
+			"score": 4
+		},
+		{
+			"exp": 5,
+			"extendType": 0,
+			"fishType": 3,
+			"maxScore": 0,
+			"name": "小金魚",
+			"score": 5
+		},
+		{
+			"exp": 6,
+			"extendType": 0,
+			"fishType": 4,
+			"maxScore": 0,
+			"name": "河豚",
+			"score": 6
+		},
+		{
+			"exp": 7,
+			"extendType": 0,
+			"fishType": 5,
+			"maxScore": 0,
+			"name": "烏賊",
+			"score": 7
+		},
+		{
+			"exp": 8,
+			"extendType": 0,
+			"fishType": 7,
+			"maxScore": 0,
+			"name": "小食人魚",
+			"score": 8
+		},
+		{
+			"exp": 9,
+			"extendType": 0,
+			"fishType": 8,
+			"maxScore": 0,
+			"name": "水母",
+			"score": 9
+		},
+		{
+			"exp": 10,
+			"extendType": 0,
+			"fishType": 9,
+			"maxScore": 0,
+			"name": "海龜",
+			"score": 10
+		},
+		{
+			"exp": 12,
+			"extendType": 0,
+			"fishType": 10,
+			"maxScore": 0,
+			"name": "孔雀魚",
+			"score": 12
+		},
+		{
+			"exp": 15,
+			"extendType": 0,
+			"fishType": 11,
+			"maxScore": 0,
+			"name": "大嘴魚",
+			"score": 15
+		},
+		{
+			"exp": 18,
+			"extendType": 0,
+			"fishType": 12,
+			"maxScore": 0,
+			"name": "獅子魚",
+			"score": 18
+		},
+		{
+			"exp": 20,
+			"extendType": 0,
+			"fishType": 13,
+			"maxScore": 0,
+			"name": "劍魚",
+			"score": 20
+		},
+		{
+			"exp": 30,
+			"extendType": 0,
+			"fishType": 14,
+			"maxScore": 0,
+			"name": "魔鬼魚",
+			"score": 30
+		},
+		{
+			"exp": 30,
+			"extendType": 0,
+			"fishType": 15,
+			"maxScore": 0,
+			"name": "蝴蝶魚",
+			"score": 30
+		},
+		{
+			"exp": 50,
+			"extendType": 0,
+			"fishType": 16,
+			"maxScore": 0,
+			"name": "蝙蝠魚",
+			"score": 50
+		},
+		{
+			"exp": 60,
+			"extendType": 0,
+			"fishType": 17,
+			"maxScore": 0,
+			"name": "錘頭魚",
+			"score": 60
+		},
+		{
+			"exp": 80,
+			"extendType": 0,
+			"fishType": 18,
+			"maxScore": 0,
+			"name": "大白鯊",
+			"score": 80
+		},
+		{
+			"exp": 120,
+			"extendType": 1,
+			"fishType": 19,
+			"maxScore": 0,
+			"name": "黃金大白鯊",
+			"score": 120
+		},
+		{
+			"exp": 100,
+			"extendType": 1,
+			"fishType": 20,
+			"maxScore": 0,
+			"name": "黃金魔鬼魚",
+			"score": 100
+		},
+		{
+			"exp": 50,
+			"extendType": 1,
+			"fishType": 22,
+			"maxScore": 0,
+			"name": "黃金水母",
+			"score": 50
+		},
+		{
+			"exp": 250,
+			"extendType": 1,
+			"fishType": 23,
+			"maxScore": 0,
+			"name": "黃金玳瑁",
+			"score": 250
+		},
+		{
+			"exp": 400,
+			"extendType": 1,
+			"fishType": 24,
+			"maxScore": 0,
+			"name": "黃金大章魚",
+			"score": 400
+		},
+		{
+			"exp": 150,
+			"extendType": 1,
+			"fishType": 25,
+			"maxScore": 0,
+			"name": "黃金鯨魚",
+			"score": 150
+		},
+		{
+			"exp": 40,
+			"extendType": 0,
+			"fishType": 26,
+			"maxScore": 0,
+			"name": "電鰻",
+			"score": 40
+		},
+		{
+			"exp": 200,
+			"extendType": 2,
+			"fishType": 27,
+			"maxScore": 0,
+			"name": "全屏炸彈",
+			"score": 200
+		},
+		{
+			"exp": 50,
+			"extendType": 3,
+			"fishType": 28,
+			"maxScore": 0,
+			"name": "一網打盡",
+			"score": 0
+		},
+		{
+			"exp": 50,
+			"extendType": 3,
+			"fishType": 29,
+			"maxScore": 0,
+			"name": "大三元",
+			"score": 0
+		},
+		{
+			"exp": 50,
+			"extendType": 3,
+			"fishType": 32,
+			"maxScore": 0,
+			"name": "大四喜",
+			"score": 0
+		},
+		{
+			"exp": 100,
+			"extendType": 2,
+			"fishType": 35,
+			"maxScore": 100,
+			"name": "深海炸彈",
+			"score": 80
+		},
+		{
+			"exp": 70,
+			"extendType": 2,
+			"fishType": 36,
+			"maxScore": 0,
+			"name": "猜寶箱",
+			"score": 70
+		},
+		{
+			"exp": 200,
+			"extendType": 2,
+			"fishType": 37,
+			"maxScore": 0,
+			"name": "深海潛行者",
+			"score": 200
+		},
+		{
+			"exp": 500,
+			"extendType": 2,
+			"fishType": 38,
+			"maxScore": 0,
+			"name": "深海潛行者",
+			"score": 500
+		},
+		{
+			"exp": 360,
+			"extendType": 2,
+			"fishType": 40,
+			"maxScore": 0,
+			"name": "藏寶蟹",
+			"score": 360
+		},
+		{
+			"exp": 75,
+			"extendType": 7,
+			"fishType": 41,
+			"maxScore": 0,
+			"name": "黑桃",
+			"score": 78
+		},
+		{
+			"exp": 55,
+			"extendType": 7,
+			"fishType": 42,
+			"maxScore": 0,
+			"name": "梅花",
+			"score": 60
+		},
+		{
+			"exp": 22,
+			"extendType": 7,
+			"fishType": 43,
+			"maxScore": 0,
+			"name": "方塊",
+			"score": 24
+		},
+		{
+			"exp": 44,
+			"extendType": 7,
+			"fishType": 44,
+			"maxScore": 0,
+			"name": "紅心",
+			"score": 45
+		},
+		{
+			"exp": 100,
+			"extendType": 8,
+			"fishType": 45,
+			"maxScore": 0,
+			"name": "幽靈水手",
+			"score": 103
+		},
+		{
+			"exp": 150,
+			"extendType": 8,
+			"fishType": 46,
+			"maxScore": 0,
+			"name": "幽靈大副",
+			"score": 156
+		},
+		{
+			"exp": 100,
+			"extendType": 8,
+			"fishType": 47,
+			"maxScore": 0,
+			"name": "幽靈水手",
+			"score": 104
+		},
+		{
+			"exp": 150,
+			"extendType": 8,
+			"fishType": 48,
+			"maxScore": 0,
+			"name": "幽靈大副",
+			"score": 156
+		},
+		{
+			"exp": 250,
+			"extendType": 5,
+			"fishType": 70,
+			"maxScore": 0,
+			"name": "龜相使者",
+			"score": 250
+		},
+		{
+			"exp": 300,
+			"extendType": 5,
+			"fishType": 71,
+			"maxScore": 0,
+			"name": "蟹將叛逃",
+			"score": 410
+		},
+		{
+			"exp": 800,
+			"extendType": 5,
+			"fishType": 72,
+			"maxScore": 0,
+			"name": "人魚寶藏",
+			"score": 1000
+		},
+		{
+			"exp": 800,
+			"extendType": 5,
+			"fishType": 73,
+			"maxScore": 0,
+			"name": "龍王降世",
+			"score": 1200
+		},
+		{
+			"exp": 620,
+			"extendType": 5,
+			"fishType": 74,
+			"maxScore": 0,
+			"name": "龍王降世",
+			"score": 645
+		},
+		{
+			"exp": 620,
+			"extendType": 5,
+			"fishType": 75,
+			"maxScore": 0,
+			"name": "龍王降世",
+			"score": 645
+		},
+		{
+			"exp": 620,
+			"extendType": 5,
+			"fishType": 76,
+			"maxScore": 0,
+			"name": "龍王降世",
+			"score": 645
+		},
+		{
+			"exp": 450,
+			"extendType": 5,
+			"fishType": 77,
+			"maxScore": 0,
+			"name": "幽靈船長",
+			"score": 500
+		},
+		{
+			"exp": 500,
+			"extendType": 5,
+			"fishType": 78,
+			"maxScore": 0,
+			"name": "副本船長",
+			"score": 550
+		},
+		{
+			"exp": 400,
+			"extendType": 5,
+			"fishType": 79,
+			"maxScore": 0,
+			"name": "副本蟹將",
+			"score": 435
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 80,
+			"maxScore": 0,
+			"name": "低級場魚人行者",
+			"score": 56
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 81,
+			"maxScore": 0,
+			"name": "低級場骸骨狂鯊",
+			"score": 108
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 82,
+			"maxScore": 0,
+			"name": "低級場納迦女皇",
+			"score": 320
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 83,
+			"maxScore": 0,
+			"name": "低級場海皇波塞冬",
+			"score": 1100
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 84,
+			"maxScore": 0,
+			"name": "新娜迦女皇",
+			"score": 250
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 85,
+			"maxScore": 0,
+			"name": "低級場炸彈哥布林",
+			"score": 630
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 86,
+			"maxScore": 0,
+			"name": "低級場骰魔骷髏",
+			"score": 530
+		},
+		{
+			"exp": 600,
+			"extendType": 5,
+			"fishType": 87,
+			"maxScore": 0,
+			"name": "火焰巨龍",
+			"score": 720
+		},
+		{
+			"exp": 600,
+			"extendType": 5,
+			"fishType": 88,
+			"maxScore": 0,
+			"name": "冰霜巨龍",
+			"score": 720
+		},
+		{
+			"exp": 700,
+			"extendType": 5,
+			"fishType": 89,
+			"maxScore": 0,
+			"name": "財神",
+			"score": 800
+		},
+		{
+			"exp": 600,
+			"extendType": 5,
+			"fishType": 90,
+			"maxScore": 0,
+			"name": "吞噬寶箱",
+			"score": 800
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 91,
+			"maxScore": 0,
+			"name": "高級場魚人行者",
+			"score": 56
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 92,
+			"maxScore": 0,
+			"name": "高級場骸骨狂鯊",
+			"score": 112
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 93,
+			"maxScore": 0,
+			"name": "高級場納迦女皇",
+			"score": 326
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 94,
+			"maxScore": 0,
+			"name": "高級場炸彈哥布林",
+			"score": 640
+		},
+		{
+			"exp": 0,
+			"extendType": 4,
+			"fishType": 95,
+			"maxScore": 0,
+			"name": "高級場骰魔骷髏",
+			"score": 535
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 107,
+			"maxScore": 0,
+			"name": "機械公敵",
+			"score": 580
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 108,
+			"maxScore": 0,
+			"name": "哥布林博士",
+			"score": 2000
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 111,
+			"maxScore": 0,
+			"name": "吞噬魚",
+			"score": 8
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 112,
+			"maxScore": 0,
+			"name": "電鰻",
+			"score": 20
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 113,
+			"maxScore": 0,
+			"name": "海豚",
+			"score": 30
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 114,
+			"maxScore": 0,
+			"name": "金龍魚",
+			"score": 200
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 115,
+			"maxScore": 0,
+			"name": "海星",
+			"score": 10
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 116,
+			"maxScore": 0,
+			"name": "海馬",
+			"score": 70
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 117,
+			"maxScore": 0,
+			"name": "紅章魚",
+			"score": 45
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 118,
+			"maxScore": 0,
+			"name": "嘟嘟魚",
+			"score": 15
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 119,
+			"maxScore": 0,
+			"name": "龍須魚",
+			"score": 3
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 120,
+			"maxScore": 0,
+			"name": "鯰魚",
+			"score": 5
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 121,
+			"maxScore": 0,
+			"name": "黃金魔鬼魚(機械城)",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 122,
+			"maxScore": 0,
+			"name": "黃金水母(機械城)",
+			"score": 50
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 123,
+			"maxScore": 0,
+			"name": "變異大章魚",
+			"score": 300
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 124,
+			"maxScore": 0,
+			"name": "變異大白鯊",
+			"score": 400
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 125,
+			"maxScore": 0,
+			"name": "變異玳瑁",
+			"score": 500
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 126,
+			"maxScore": 0,
+			"name": "暗夜炬獸",
+			"score": 1650
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 127,
+			"maxScore": 0,
+			"name": "紅包魚",
+			"score": 105
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 128,
+			"maxScore": 0,
+			"name": "高級紅包魚",
+			"score": 315
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 129,
+			"maxScore": 0,
+			"name": "漁王獎章",
+			"score": 215
+		},
+		{
+			"exp": 100,
+			"extendType": 2,
+			"fishType": 130,
+			"maxScore": 0,
+			"name": "搗蛋南瓜",
+			"score": 230
+		},
+		{
+			"exp": 2,
+			"extendType": 0,
+			"fishType": 131,
+			"maxScore": 0,
+			"name": "迦魶魚",
+			"score": 2
+		},
+		{
+			"exp": 3,
+			"extendType": 0,
+			"fishType": 132,
+			"maxScore": 0,
+			"name": "條紋魚",
+			"score": 3
+		},
+		{
+			"exp": 4,
+			"extendType": 0,
+			"fishType": 133,
+			"maxScore": 0,
+			"name": "鰈魚",
+			"score": 4
+		},
+		{
+			"exp": 5,
+			"extendType": 0,
+			"fishType": 134,
+			"maxScore": 0,
+			"name": "粉河豚",
+			"score": 5
+		},
+		{
+			"exp": 6,
+			"extendType": 0,
+			"fishType": 135,
+			"maxScore": 0,
+			"name": "蓑鲉魚",
+			"score": 6
+		},
+		{
+			"exp": 7,
+			"extendType": 0,
+			"fishType": 136,
+			"maxScore": 0,
+			"name": "比目魚",
+			"score": 7
+		},
+		{
+			"exp": 8,
+			"extendType": 0,
+			"fishType": 137,
+			"maxScore": 0,
+			"name": "龍蝦",
+			"score": 8
+		},
+		{
+			"exp": 9,
+			"extendType": 0,
+			"fishType": 138,
+			"maxScore": 0,
+			"name": "旗魚",
+			"score": 9
+		},
+		{
+			"exp": 10,
+			"extendType": 0,
+			"fishType": 139,
+			"maxScore": 0,
+			"name": "章魚",
+			"score": 10
+		},
+		{
+			"exp": 12,
+			"extendType": 0,
+			"fishType": 140,
+			"maxScore": 0,
+			"name": "安康魚",
+			"score": 12
+		},
+		{
+			"exp": 15,
+			"extendType": 0,
+			"fishType": 141,
+			"maxScore": 0,
+			"name": "大海龜",
+			"score": 15
+		},
+		{
+			"exp": 18,
+			"extendType": 0,
+			"fishType": 142,
+			"maxScore": 0,
+			"name": "鋸齒鯊",
+			"score": 18
+		},
+		{
+			"exp": 20,
+			"extendType": 0,
+			"fishType": 143,
+			"maxScore": 0,
+			"name": "蝠鱝魚",
+			"score": 20
+		},
+		{
+			"exp": 30,
+			"extendType": 0,
+			"fishType": 144,
+			"maxScore": 0,
+			"name": "巨大條紋魚",
+			"score": 30
+		},
+		{
+			"exp": 40,
+			"extendType": 0,
+			"fishType": 145,
+			"maxScore": 0,
+			"name": "藍紋鯊魚",
+			"score": 40
+		},
+		{
+			"exp": 50,
+			"extendType": 0,
+			"fishType": 146,
+			"maxScore": 0,
+			"name": "殺人鯨",
+			"score": 50
+		},
+		{
+			"exp": 150,
+			"extendType": 1,
+			"fishType": 147,
+			"maxScore": 0,
+			"name": "霸王鯨",
+			"score": 150
+		},
+		{
+			"exp": 250,
+			"extendType": 1,
+			"fishType": 148,
+			"maxScore": 0,
+			"name": "黃金龍",
+			"score": 250
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 149,
+			"maxScore": 0,
+			"name": "霸王蟹",
+			"score": 850
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 150,
+			"maxScore": 0,
+			"name": "金元寶",
+			"score": 280
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 151,
+			"maxScore": 0,
+			"name": "大金元寶",
+			"score": 540
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 152,
+			"maxScore": 0,
+			"name": "元寶山",
+			"score": 760
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 153,
+			"maxScore": 0,
+			"name": "狂歡氣球",
+			"score": 105
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 154,
+			"maxScore": 0,
+			"name": "炫彩手杖",
+			"score": 260
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 155,
+			"maxScore": 0,
+			"name": "慶典面具",
+			"score": 400
+		},
+		{
+			"exp": 150,
+			"extendType": 1,
+			"fishType": 160,
+			"maxScore": 0,
+			"name": "狂暴場黃金大白鯊",
+			"score": 150
+		},
+		{
+			"exp": 100,
+			"extendType": 1,
+			"fishType": 161,
+			"maxScore": 0,
+			"name": "狂暴場黃金魔鬼魚",
+			"score": 100
+		},
+		{
+			"exp": 50,
+			"extendType": 1,
+			"fishType": 162,
+			"maxScore": 0,
+			"name": "狂暴場黃金水母",
+			"score": 50
+		},
+		{
+			"exp": 200,
+			"extendType": 1,
+			"fishType": 164,
+			"maxScore": 0,
+			"name": "狂暴場黃金大章魚",
+			"score": 200
+		},
+		{
+			"exp": 300,
+			"extendType": 1,
+			"fishType": 166,
+			"maxScore": 0,
+			"name": "狂暴場變異玳瑁",
+			"score": 300
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 167,
+			"maxScore": 0,
+			"name": "龍蛋",
+			"score": 350
+		},
+		{
+			"exp": 1000,
+			"extendType": 5,
+			"fishType": 168,
+			"maxScore": 0,
+			"name": "龍王降世",
+			"score": 1350
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 169,
+			"maxScore": 0,
+			"name": "斬妖劍",
+			"score": 340
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 170,
+			"maxScore": 0,
+			"name": "黃金玳瑁(機械城)",
+			"score": 250
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 171,
+			"maxScore": 0,
+			"name": "黃金鯨魚(機械城)",
+			"score": 150
+		},
+		{
+			"exp": 400,
+			"extendType": 2,
+			"fishType": 172,
+			"maxScore": 0,
+			"name": "踏雲獸",
+			"score": 435
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 173,
+			"maxScore": 0,
+			"name": "麒麟年獸",
+			"score": 1080
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 174,
+			"maxScore": 0,
+			"name": "三首蛟",
+			"score": 340
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 175,
+			"maxScore": 0,
+			"name": "污染物",
+			"score": 88
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 176,
+			"maxScore": 0,
+			"name": "毒性污染物",
+			"score": 176
+		},
+		{
+			"exp": 250,
+			"extendType": 2,
+			"fishType": 177,
+			"maxScore": 0,
+			"name": "冥界仆从玳瑁",
+			"score": 250
+		},
+		{
+			"exp": 400,
+			"extendType": 2,
+			"fishType": 178,
+			"maxScore": 0,
+			"name": "冥界仆从大章鱼",
+			"score": 400
+		},
+		{
+			"exp": 150,
+			"extendType": 2,
+			"fishType": 179,
+			"maxScore": 0,
+			"name": "冥界仆从鲸鱼",
+			"score": 120
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 180,
+			"maxScore": 0,
+			"name": "奥金幼龙",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 181,
+			"maxScore": 0,
+			"name": "熔火幼龙",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 182,
+			"maxScore": 0,
+			"name": "寒霜幼龙",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 183,
+			"maxScore": 0,
+			"name": "奥金幼龙",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 184,
+			"maxScore": 0,
+			"name": "奥金幼龙",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 185,
+			"maxScore": 0,
+			"name": "熔火幼龙",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 186,
+			"maxScore": 0,
+			"name": "寒霜幼龙",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 188,
+			"maxScore": 0,
+			"name": "黄金船",
+			"score": 800
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 189,
+			"maxScore": 2000,
+			"name": "金虾兵",
+			"score": 0
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 192,
+			"maxScore": 0,
+			"name": "翡翠元宝",
+			"score": 120
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 601,
+			"maxScore": 0,
+			"name": "小刺魚",
+			"score": 2
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 602,
+			"maxScore": 0,
+			"name": "小草魚",
+			"score": 2
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 603,
+			"maxScore": 0,
+			"name": "小黃魚",
+			"score": 3
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 604,
+			"maxScore": 0,
+			"name": "泡泡魚",
+			"score": 4
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 605,
+			"maxScore": 0,
+			"name": "小紫魚",
+			"score": 5
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 606,
+			"maxScore": 0,
+			"name": "尼莫",
+			"score": 6
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 607,
+			"maxScore": 0,
+			"name": "河豚",
+			"score": 7
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 608,
+			"maxScore": 0,
+			"name": "藍魚",
+			"score": 8
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 609,
+			"maxScore": 0,
+			"name": "燈籠魚",
+			"score": 9
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 610,
+			"maxScore": 0,
+			"name": "神仙魚",
+			"score": 12
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 611,
+			"maxScore": 0,
+			"name": "烏龜",
+			"score": 10
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 612,
+			"maxScore": 0,
+			"name": "蝴蝶魚",
+			"score": 15
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 613,
+			"maxScore": 0,
+			"name": "孔雀魚",
+			"score": 18
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 614,
+			"maxScore": 0,
+			"name": "劍魚",
+			"score": 20
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 615,
+			"maxScore": 0,
+			"name": "蝙蝠魚",
+			"score": 25
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 616,
+			"maxScore": 0,
+			"name": "大白鯊",
+			"score": 40
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 617,
+			"maxScore": 0,
+			"name": "大金鯊",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 618,
+			"maxScore": 0,
+			"name": "蜻蜓魚",
+			"score": 60
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 619,
+			"maxScore": 0,
+			"name": "龍蝦",
+			"score": 30
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 620,
+			"maxScore": 0,
+			"name": "海豚",
+			"score": 80
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 621,
+			"maxScore": 0,
+			"name": "金龍",
+			"score": 400
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 622,
+			"maxScore": 0,
+			"name": "局部炸彈",
+			"score": 300
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 623,
+			"maxScore": 0,
+			"name": "全屏炸彈",
+			"score": 800
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 624,
+			"maxScore": 0,
+			"name": "黃金鯊",
+			"score": 200
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 625,
+			"maxScore": 0,
+			"name": "黃金大魷魚",
+			"score": 150
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 626,
+			"maxScore": 0,
+			"name": "三頭金鯊",
+			"score": 300
+		},
+		{
+			"exp": 0,
+			"extendType": 1,
+			"fishType": 627,
+			"maxScore": 0,
+			"name": "金熊",
+			"score": 600
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 628,
+			"maxScore": 0,
+			"name": "金蟾",
+			"score": 500
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 629,
+			"maxScore": 0,
+			"name": "李逵",
+			"score": 1000
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 630,
+			"maxScore": 0,
+			"name": "孫悟空",
+			"score": 1500
+		},
+		{
+			"exp": 0,
+			"extendType": 3,
+			"fishType": 631,
+			"maxScore": 0,
+			"name": "大三元",
+			"score": 0
+		},
+		{
+			"exp": 0,
+			"extendType": 3,
+			"fishType": 632,
+			"maxScore": 0,
+			"name": "大四喜",
+			"score": 0
+		},
+		{
+			"exp": 0,
+			"extendType": 3,
+			"fishType": 633,
+			"maxScore": 0,
+			"name": "一網打盡",
+			"score": 0
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 635,
+			"maxScore": 0,
+			"name": "科学怪人",
+			"score": 750
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1000,
+			"maxScore": 0,
+			"name": "小飛魚",
+			"score": 2
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1001,
+			"maxScore": 0,
+			"name": "小醜魚",
+			"score": 3
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1002,
+			"maxScore": 0,
+			"name": "神仙魚",
+			"score": 4
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1003,
+			"maxScore": 0,
+			"name": "氣球魚",
+			"score": 5
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1004,
+			"maxScore": 0,
+			"name": "獅子魚",
+			"score": 6
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1005,
+			"maxScore": 0,
+			"name": "比目魚",
+			"score": 8
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1006,
+			"maxScore": 0,
+			"name": "海鰲蝦",
+			"score": 10
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1007,
+			"maxScore": 0,
+			"name": "旗魚",
+			"score": 12
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1008,
+			"maxScore": 0,
+			"name": "章魚",
+			"score": 15
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1009,
+			"maxScore": 0,
+			"name": "鋼盔魚",
+			"score": 18
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1010,
+			"maxScore": 0,
+			"name": "六角龍魚",
+			"score": 20
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1011,
+			"maxScore": 0,
+			"name": "鋸齒鯊",
+			"score": 25
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1012,
+			"maxScore": 0,
+			"name": "巨型小醜魚",
+			"score": 30
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1013,
+			"maxScore": 0,
+			"name": "魔鬼魚",
+			"score": 40
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1050,
+			"maxScore": 0,
+			"name": "錘頭鯊",
+			"score": 50
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1051,
+			"maxScore": 0,
+			"name": "大青鯊",
+			"score": 60
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1052,
+			"maxScore": 0,
+			"name": "熒光水母",
+			"score": 80
+		},
+		{
+			"exp": 0,
+			"extendType": 0,
+			"fishType": 1053,
+			"maxScore": 0,
+			"name": "骷髏鯊",
+			"score": 100
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1070,
+			"maxScore": 0,
+			"name": "黃金魔鬼魚",
+			"score": 126
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1071,
+			"maxScore": 0,
+			"name": "黃金大白鯊",
+			"score": 168
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1072,
+			"maxScore": 0,
+			"name": "黃金玳瑁",
+			"score": 210
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1073,
+			"maxScore": 0,
+			"name": "黃金大章魚",
+			"score": 252
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1100,
+			"maxScore": 0,
+			"name": "上古神鰲",
+			"score": 625
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1101,
+			"maxScore": 0,
+			"name": "金玉寶樹",
+			"score": 833
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1102,
+			"maxScore": 0,
+			"name": "軒轅劍爐",
+			"score": 1042
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1103,
+			"maxScore": 0,
+			"name": "燭龍",
+			"score": 1250
+		},
+		{
+			"exp": 0,
+			"extendType": 2,
+			"fishType": 1104,
+			"maxScore": 0,
+			"name": "蓮花寶燈",
+			"score": 1042
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 1200,
+			"maxScore": 0,
+			"name": "帝王鱷",
+			"score": 1050
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 1201,
+			"maxScore": 0,
+			"name": "九霄鳳凰",
+			"score": 1650
+		},
+		{
+			"exp": 0,
+			"extendType": 5,
+			"fishType": 1202,
+			"maxScore": 0,
+			"name": "五彩神牛",
+			"score": 2080
+		}
+	]
+}
