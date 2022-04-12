@@ -12,9 +12,7 @@ return {
 			{ itemid = 4001, itemName = "普通宝箱", subItemIds = {6001,6002}, subItemIdsCount = {3,4}, rate = {90,80}, }, 
 			{ itemid = 5001, itemName = "5元礼包", subItemIds = {1002}, subItemIdsCount = {500}, rate = {100}, }, 
 			{ itemid = 5002, itemName = "20元礼包", subItemIds = {1002}, subItemIdsCount = {1000}, rate = {100}, }, 
-			{ itemid = 5003, itemName = "50元礼包", subItemIds = {1002}, subItemIdsCount = {2000}, rate = {100}, }, 
-			{ itemid = 12001, itemName = "合成碎片1", subItemIds = {6002}, subItemIdsCount = {1}, rate = {100}, }, 
-			{ itemid = 12002, itemName = "合成碎片2", subItemIds = {6003}, subItemIdsCount = {1}, rate = {100}, },  
+			{ itemid = 5003, itemName = "50元礼包", subItemIds = {1002}, subItemIdsCount = {2000}, rate = {100}, },  
 		}
 		
 		
