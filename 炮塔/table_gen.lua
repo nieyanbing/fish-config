@@ -5,12 +5,12 @@ return {
 	init = function( g )
 		
 		g.MyData = { 
-			{ itemid = 6001, launchSpeed = 0.22, enragedRadio = 0, reboundFrequency = 3, expPlus = 0, raiseCannonRate = 0, bulletMultipleList = {10,15}, }, 
-			{ itemid = 6002, launchSpeed = 0.22, enragedRadio = 0, reboundFrequency = 4, expPlus = 5, raiseCannonRate = 0, bulletMultipleList = {20,25}, }, 
-			{ itemid = 6003, launchSpeed = 0.21, enragedRadio = 0, reboundFrequency = 5, expPlus = 10, raiseCannonRate = 0, bulletMultipleList = {30,35}, }, 
-			{ itemid = 6004, launchSpeed = 0.2, enragedRadio = 0, reboundFrequency = 6, expPlus = 15, raiseCannonRate = 0, bulletMultipleList = {40,45}, }, 
-			{ itemid = 6005, launchSpeed = 0.2, enragedRadio = 0, reboundFrequency = 7, expPlus = 20, raiseCannonRate = 0, bulletMultipleList = {50,55}, }, 
-			{ itemid = 6006, launchSpeed = 0.2, enragedRadio = 0, reboundFrequency = 8, expPlus = 25, raiseCannonRate = 0, bulletMultipleList = {60,65}, },  
+			{ itemid = 6001, cannonType = 0, launchSpeed = 0.22, cannonLevel = 100, enragedRadio = 0, reboundFrequency = 3, expPlus = 0, raiseCannonRate = 0, bulletMultipleList = {10,15}, }, 
+			{ itemid = 6002, cannonType = 1, launchSpeed = 0.22, cannonLevel = 200, enragedRadio = 0, reboundFrequency = 4, expPlus = 5, raiseCannonRate = 0, bulletMultipleList = {20,25}, }, 
+			{ itemid = 6003, cannonType = 2, launchSpeed = 0.21, cannonLevel = 500, enragedRadio = 0, reboundFrequency = 5, expPlus = 10, raiseCannonRate = 0, bulletMultipleList = {30,35}, }, 
+			{ itemid = 6004, cannonType = 3, launchSpeed = 0.2, cannonLevel = 1000, enragedRadio = 0, reboundFrequency = 6, expPlus = 15, raiseCannonRate = 0, bulletMultipleList = {40,45}, }, 
+			{ itemid = 6005, cannonType = 4, launchSpeed = 0.2, cannonLevel = 2000, enragedRadio = 0, reboundFrequency = 7, expPlus = 20, raiseCannonRate = 0, bulletMultipleList = {50,55}, }, 
+			{ itemid = 6006, cannonType = 5, launchSpeed = 0.2, cannonLevel = 5000, enragedRadio = 0, reboundFrequency = 8, expPlus = 25, raiseCannonRate = 0, bulletMultipleList = {60,65}, },  
 		}
 		
 		

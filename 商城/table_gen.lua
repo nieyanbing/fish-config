@@ -13,10 +13,10 @@ return {
 			{ itemid = 3001, itemCount = 1, itemName = "锁定", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 3, }, 
 			{ itemid = 3002, itemCount = 1, itemName = "冰冻", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 3, }, 
 			{ itemid = 3003, itemCount = 1, itemName = "狂暴", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 3, }, 
-			{ itemid = 9001, itemCount = 1, itemName = "初级盲盒", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 4, }, 
-			{ itemid = 9002, itemCount = 1, itemName = "中级盲盒", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 4, }, 
-			{ itemid = 9003, itemCount = 1, itemName = "高级盲盒", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 4, }, 
-			{ itemid = 9004, itemCount = 1, itemName = "神秘盲盒", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 4, },  
+			{ itemid = 9001, itemCount = 1, itemName = "初级盲盒", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 0, }, 
+			{ itemid = 9002, itemCount = 1, itemName = "中级盲盒", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 0, }, 
+			{ itemid = 9003, itemCount = 1, itemName = "高级盲盒", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 0, }, 
+			{ itemid = 9004, itemCount = 1, itemName = "神秘盲盒", subItemIds = {1002}, subItemIdsCount = {100}, rate = 100, storeType = 0, },  
 		}
 		
 		
