@@ -12,7 +12,12 @@ return {
 			{ itemid = 4001, itemName = "普通宝箱", subItemIds = {6001,6002}, subItemIdsCount = {3,4}, rate = {90,80}, }, 
 			{ itemid = 5001, itemName = "5元礼包", subItemIds = {1002}, subItemIdsCount = {500}, rate = {100}, }, 
 			{ itemid = 5002, itemName = "20元礼包", subItemIds = {1002}, subItemIdsCount = {1000}, rate = {100}, }, 
-			{ itemid = 5003, itemName = "50元礼包", subItemIds = {1002}, subItemIdsCount = {2000}, rate = {100}, },  
+			{ itemid = 5003, itemName = "50元礼包", subItemIds = {1002}, subItemIdsCount = {2000}, rate = {100}, }, 
+			{ itemid = 3001, itemName = "锁定", subItemIds = {1002}, subItemIdsCount = {500}, rate = {100}, }, 
+			{ itemid = 3002, itemName = "冰冻", subItemIds = {1002}, subItemIdsCount = {1000}, rate = {100}, }, 
+			{ itemid = 3003, itemName = "狂暴", subItemIds = {1002}, subItemIdsCount = {2000}, rate = {100}, }, 
+			{ itemid = 2001, itemName = "核弹", subItemIds = {1002}, subItemIdsCount = {2000}, rate = {100}, }, 
+			{ itemid = 4001, itemName = "普通宝箱", subItemIds = {1002}, subItemIdsCount = {2000}, rate = {100}, },  
 		}
 		
 		
