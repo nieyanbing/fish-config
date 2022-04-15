@@ -1,0 +1,162 @@
+{
+	"@Tool": "github.com/davyxu/tabtoy",
+	"@Version": "3.1.3",
+	"MyData": [
+		{
+			"itemCount": 1000,
+			"itemName": "1000金币",
+			"itemid": 1001,
+			"rate": 100,
+			"storeType": 1,
+			"subItemIds": [
+				1001
+			],
+			"subItemIdsCount": [
+				1000
+			]
+		},
+		{
+			"itemCount": 5000,
+			"itemName": "5000金币",
+			"itemid": 1001,
+			"rate": 100,
+			"storeType": 1,
+			"subItemIds": [
+				1001
+			],
+			"subItemIdsCount": [
+				5000
+			]
+		},
+		{
+			"itemCount": 10000,
+			"itemName": "10000金币",
+			"itemid": 1001,
+			"rate": 100,
+			"storeType": 1,
+			"subItemIds": [
+				1001
+			],
+			"subItemIdsCount": [
+				10000
+			]
+		},
+		{
+			"itemCount": 1000,
+			"itemName": "1000钻石",
+			"itemid": 1002,
+			"rate": 100,
+			"storeType": 2,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				1000
+			]
+		},
+		{
+			"itemCount": 1000,
+			"itemName": "10000钻石",
+			"itemid": 1002,
+			"rate": 100,
+			"storeType": 2,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				10000
+			]
+		},
+		{
+			"itemCount": 1,
+			"itemName": "锁定",
+			"itemid": 3001,
+			"rate": 100,
+			"storeType": 3,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				100
+			]
+		},
+		{
+			"itemCount": 1,
+			"itemName": "冰冻",
+			"itemid": 3002,
+			"rate": 100,
+			"storeType": 3,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				100
+			]
+		},
+		{
+			"itemCount": 1,
+			"itemName": "狂暴",
+			"itemid": 3003,
+			"rate": 100,
+			"storeType": 3,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				100
+			]
+		},
+		{
+			"itemCount": 1,
+			"itemName": "初级盲盒",
+			"itemid": 9001,
+			"rate": 100,
+			"storeType": 4,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				100
+			]
+		},
+		{
+			"itemCount": 1,
+			"itemName": "中级盲盒",
+			"itemid": 9002,
+			"rate": 100,
+			"storeType": 4,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				100
+			]
+		},
+		{
+			"itemCount": 1,
+			"itemName": "高级盲盒",
+			"itemid": 9003,
+			"rate": 100,
+			"storeType": 4,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				100
+			]
+		},
+		{
+			"itemCount": 1,
+			"itemName": "神秘盲盒",
+			"itemid": 9004,
+			"rate": 100,
+			"storeType": 4,
+			"subItemIds": [
+				1002
+			],
+			"subItemIdsCount": [
+				100
+			]
+		}
+	]
+}
